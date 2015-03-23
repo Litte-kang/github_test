@@ -1,1 +1,6 @@
-hello world
+#include "stdio"
+
+int main()
+{
+	return 0;
+}
