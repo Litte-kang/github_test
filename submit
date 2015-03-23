@@ -1,0 +1,6 @@
+#!/bin/bash
+
+git add . -A
+git commit -m "github_test"
+git remote add origin git@github.com:Litte-kang/github_test.git
+git push -u origin master
